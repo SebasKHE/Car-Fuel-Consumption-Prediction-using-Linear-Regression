@@ -58,7 +58,7 @@ The R²-Score of 0.72 indicates that the model is able to explain 72% of the var
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/SebasKHE/Car-Fuel-Consumption-Prediction.git
+   git clone https://github.com/SebasKHE/Car-Fuel-Consumption-Prediction-using-Linear-Regression.git
    ```
 2. Install the required dependencies:  
    ```bash
@@ -67,9 +67,10 @@ The R²-Score of 0.72 indicates that the model is able to explain 72% of the var
    pip install matplotlib
    pip install seaborn
    ```
-3. Open the Jupyter notebook:  
+3. Open the Jupyter notebooks:  
    ```bash
-   jupyter notebook notebooks/linear_regression_fuel_consumption.ipynb
+   jupyter notebook notebooks/simlpe_linear_regression.ipynb
+   jupyter notebook notebooks/multiple_linear_regression.ipynb
    ```
 4. Run the cells to train the model and evaluate its performance.
 
