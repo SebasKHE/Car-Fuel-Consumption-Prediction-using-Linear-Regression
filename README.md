@@ -2,7 +2,7 @@
 # **Car Fuel Consumption Prediction using Linear Regression**
 
 ## **Project Description**
-This project implements a **simple linear regression model** to predict a car's **fuel consumption** based on various vehicle features such as engine size, transmission type, and vehicle class. The goal is to predict the combined fuel consumption (in liters per 100 kilometers) for a given car based on the given input features.
+This project implements a **simple and multiple linear regression model** to predict a car's **fuel consumption** based on various vehicle features such as engine size, transmission type, and vehicle class. The goal is to predict the combined fuel consumption (in liters per 100 kilometers) for a given car based on the given input features.
 
 The model is trained on a dataset that includes information about car specifications and their corresponding fuel consumption values.
 
