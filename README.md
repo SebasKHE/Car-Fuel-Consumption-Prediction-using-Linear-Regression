@@ -62,7 +62,10 @@ The R²-Score of 0.72 indicates that the model is able to explain 72% of the var
    ```
 2. Install the required dependencies:  
    ```bash
-   pip install -r requirements.txt
+   pip install scikit-learn
+   pip install pandas
+   pip install matplotlib
+   pip install seaborn
    ```
 3. Open the Jupyter notebook:  
    ```bash
